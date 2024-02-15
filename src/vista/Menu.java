@@ -35,6 +35,7 @@ public class Menu {
         System.out.println("TALLER 1 - Vectores y Matrices\n"
                 + "Autores: ");
         System.out.println("A VER LA PRUEBA");
+        System.out.println("se actualiza :V?");
         
         do {
             System.out.println("--------------------MENU--------------------");
